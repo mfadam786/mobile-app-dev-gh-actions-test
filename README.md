@@ -1,1 +1,1 @@
-# mobile-app-dev-github-actions-test
+# mobile-app-dev-gh-actions-test
