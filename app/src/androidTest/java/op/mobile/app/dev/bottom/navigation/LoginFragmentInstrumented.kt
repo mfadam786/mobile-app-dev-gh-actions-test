@@ -28,7 +28,7 @@ class LoginFragmentInstrumentedTest {
     @Before
     fun initValidString() {
         // Initialising variables marked with the lateinit keyword
-        emailAddressToBeTyped = "jane.doe@email.com"
+        emailAddressToBeTyped = "john.doe@email.com"
         passwordToBeTyped = "P@ssw0rd123"
     }
 
